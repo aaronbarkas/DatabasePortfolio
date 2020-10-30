@@ -1,4 +1,3 @@
-<img src="me.jpg" alt="logo" style="zoom: 25%;" />
 
 
 
